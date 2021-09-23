@@ -3,7 +3,6 @@
   ## Description
   Second take at my personal portfolio. 
 
-  ---
 ## Screenshot: 
 
 

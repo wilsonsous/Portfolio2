@@ -1,0 +1,117 @@
+body {
+    background-color: #1d2635;
+    font-size: 1.05rem;
+    font-weight: 500;
+    color: rgb(255, 255, 255, .55);
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Intro */
+.intro {
+    margin-top: 60px;
+    text-align: center;
+}
+
+.intro .profile-intro img{
+    border-radius: 50%;
+    width: 300px;
+    height: 250px;
+    object-fit: cover;
+    margin-bottom: 40px;
+}
+
+.intro, .profile-intro, h1, h2, h3 {
+    font-size: 20px;
+}
+
+/* about */
+.about {
+    margin-top:  40px;
+    margin-bottom: 30px;
+}
+
+.about .about-titles{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.about .about-description{
+    padding: 10px 16px;
+}
+
+/*  Projects */
+.Projects {
+    margin-top:  40px;
+    margin-bottom: 30px;
+}
+
+.Projects .Projects-titles{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.Projects .list_projects{
+    padding: 10px 16px;
+}
+
+.Projects .list_projects .card{
+    background-color: #243042;
+    padding: 10px 10px;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+.Projects .list_projects .card .shadow{
+    --webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+.Projects .list_projects .card img{
+    width: 100%;
+    object-fit:cover;
+}
+
+.Projects .list_projects .card .card-title{
+    color: #fff2ff;
+}
+
+/*  Skills */
+.Projects {
+    margin-top:  40px;
+    margin-bottom: 30px;
+}
+
+.Projects .Projects-titles{
+    color: #fff;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.Projects .list_projects{
+    padding: 10px 16px;
+}
+
+.Projects .list_projects .card{
+    background-color: #243042;
+    padding: 10px 10px;
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+.Projects .list_projects .card .shadow{
+    --webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    -moz-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+.Projects .list_projects .card img{
+    width: 100%;
+    object-fit:cover;
+}
+
+.Projects .list_projects .card .card-title{
+    color: #fff2ff;
+}
