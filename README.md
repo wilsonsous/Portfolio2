@@ -5,9 +5,7 @@
 
 ## Screenshot: 
 <img width="1792" alt="Screen Shot 2021-09-24 at 3 41 30 AM" src="https://user-images.githubusercontent.com/78562158/134637302-412cf010-7e37-42a4-b79a-cd4db67f710e.png"
-     
-![Screen Shot 2021-09-24 at 3 41 30 AM (2)](https://user-images.githubusercontent.com/78562158/134637320-0e516372-a380-477b-b6bb-a41c49e7a996.png)
->
+    
 
 
 ## Deployed Links
