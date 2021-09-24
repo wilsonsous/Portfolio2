@@ -4,7 +4,8 @@
   Second take at my personal portfolio. 
 
 ## Screenshot: 
-<img width="1792" alt="Screen Shot 2021-09-24 at 3 41 30 AM" src="https://user-images.githubusercontent.com/78562158/134637302-412cf010-7e37-42a4-b79a-cd4db67f710e.png"
+<img width="1792" alt="Screen Shot 2021-09-24 at 3 41 30 AM" src="https://user-images.githubusercontent.com/78562158/134637459-c5b184b5-4521-4712-b770-4a759745b11d.png">
+
     
 
 
