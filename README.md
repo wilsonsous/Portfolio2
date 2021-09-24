@@ -41,6 +41,12 @@ SOFTWARE.
 
 ---
 
+## Contact Info
+If you wish to contact me, please do so via email
+souswilson@gmail.com
+
+---
+
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
